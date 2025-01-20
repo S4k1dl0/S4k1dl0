@@ -11,7 +11,7 @@
 
 * 🌍  I'm based in Bangkok 
 * 🖥️  See my portfolio at [sakdilocode](http://sakidlocode.com) 
-* ✉️  You can contact me at [sukij@sakidlocode.com](mailto:sukij@sakidlocode.com)
+* ✉️  You can contact me at [sakidlocode@gmail.com](mailto:sakidlocode@gmail.com)
 
 ## Languages and Tools :  
 
