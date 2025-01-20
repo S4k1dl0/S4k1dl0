@@ -10,7 +10,7 @@
 ## Software Developers 
 
 * 🌍  I'm based in Bangkok 
-* 🖥️  See my portfolio at [sakdilocode](http://sakidlocode.com) 
+* 🖥️  See my portfolio at [sakdilocode](https://sakidlocode.com) 
 * ✉️  You can contact me at [sakidlocode@gmail.com](mailto:sakidlocode@gmail.com)
 
 ## Languages and Tools :  
@@ -28,7 +28,7 @@
 </div>
 
 ## Socials  
-<p align="left"> <a href="https://www.github.com/S4k1dl0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/S4k1dl0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp; <a href="https://sakidlocode.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://sakidlocode.com/images/57.png" /> <source media="(prefers-color-scheme: light)" srcset="https://sakidlocode.com/images/57.png" /> <img src="https://sakidlocode.com/images/57.png" width="40" height="40" /> </picture> </a></p>
 
 ## Badges
 
