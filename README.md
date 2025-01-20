@@ -34,6 +34,6 @@
 
 <b>My GitHub Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4k1dl0&layout=compact&theme=vision-friendly-dark)](https://github.com/S4k1dl0/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4k1dl0&show_icons=true&theme=tokyonight)](https://github.com/S4k1dl0/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4k1dl0&layout=compact&theme=vision-friendly-dark) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4k1dl0&show_icons=true&theme=tokyonight)
 
 <a href="http://www.github.com/S4k1dl0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=S4k1dl0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
