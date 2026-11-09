@@ -32,7 +32,6 @@
 
 ## Badges
 
-<b>My GitHub Stats</b>
+<b>My Badges</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4k1dl0&layout=compact&theme=tokyonight) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4k1dl0&show_icons=true&theme=tokyonight)
 
